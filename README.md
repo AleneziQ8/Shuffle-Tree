@@ -16,4 +16,4 @@ William Howe
 
 Final Report can be found [here](https://github.com/AleneziQ8/Shuffle-Tree/blob/testing/Shuffling_Trees_Report.pdf).
 
-We investigated a vehicle routing problem (VRP) with regards to Scottish forestry operations. We researched simulated annealing, ant colony optimization, and linear programming to perform a comparitive analysis of the three heuristics. We wanted to understand the decisions that minimized wait times and maximized efficiency. 
+We investigated a vehicle routing problem (VRP) with regards to Scottish forestry operations. We researched simulated annealing, ant colony optimization, and linear programming to perform a comparative analysis of the three heuristics. We wanted to understand the decisions that minimized wait times and maximized efficiency. 
